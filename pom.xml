@@ -192,6 +192,11 @@
 			<version>${junit-vintage-engine.version}</version>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+    			<groupId>com.github.oshi</groupId>
+    			<artifactId>oshi-core</artifactId>
+    			<version>LATEST</version>
+		</dependency>
 	</dependencies>
 
 	<build>
